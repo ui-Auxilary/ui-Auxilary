@@ -11,6 +11,8 @@ Here are some of my project highlights:
 - Circles (University degree planner)
 [https://github.com/ui-Auxilary/circles]
 ---
+Github contributions (Work account)
+<img width="1845" height="1098" alt="image" src="https://github.com/user-attachments/assets/76977e82-a259-44c8-9e3d-b93dad70f49b" />
 
 `TypeScript` `React` `Next.js` `Python` `Framer Motion` `Tailwind CSS` `C++`
 
