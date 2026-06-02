@@ -12,7 +12,7 @@ Here are some of my project highlights:
 [https://github.com/ui-Auxilary/circles]
 ---
 Github contributions (Work account)
-<img width="1845" height="1098" alt="image" src="https://github.com/user-attachments/assets/76977e82-a259-44c8-9e3d-b93dad70f49b" />
+<img width="1625" height="614" alt="Adobe Express - file" src="https://github.com/user-attachments/assets/06b5e39e-a27f-46c8-bf1e-c48384aff9b1" />
 
 `TypeScript` `React` `Next.js` `Python` `Framer Motion` `Tailwind CSS` `C++`
 
